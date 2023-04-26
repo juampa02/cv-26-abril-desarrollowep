@@ -1,0 +1,60 @@
+body{
+    background-color: white;
+}
+h1{
+
+    font-family: Arial, Helvetica, sans-serif
+    margin 30px;
+}
+
+.foto{
+    border-radius: 388.5px;
+    width: 303px;
+    height: 372px;
+}
+nav{
+    background: #E2D79D;
+}
+
+nav ul{
+    display: flex;
+}
+
+
+ul li a{
+    width: 408px;
+    height: 111px;
+    background: #ABDCDF;
+    margin: 20px;
+    padding: 10px;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background: #E2D79D;
+    bottom: 0;
+}
+.contenedorfototexto{
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenedortexto{
+    width: 1087px;
+    background-color:  #ABDCDF;
+    border-radius: 52px;
+    font-size: medium;
+
+}
+
+.texto1{
+    font-size: 1em;
+}
+.texto2{
+    font-size: 1em;
+}
+.barrasuperior{
+    flex-wrap: wrap;
+}
